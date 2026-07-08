@@ -1,0 +1,112 @@
+{
+  "profile": {
+    "fullName": "Nicy K Kabir",
+    "title": "Flutter Developer",
+    "subtitle": "Mobile Application Developer | Cross-Platform App Developer",
+    "summary": {
+      "mobile": "Flutter Developer with 6 months of internship experience in building cross-platform mobile applications using MVVM architecture, REST APIs, and Firebase.",
+      "desktop": "Flutter Developer with 6 months of internship experience in building cross-platform mobile applications using Flutter and Dart. Proficient in creating responsive UIs, integrating REST APIs, and implementing Firebase solutions, with hands-on experience in MVVM architecture and delivering seamless user experiences."
+    },
+    "email": "nicyshai@gmail.com",
+    "phone": "+9995723146",
+    "location": "Ernakulam, Kerala",
+    "profileImage": "assets/images/me.jpeg",
+    "resumeAsset": "assets/resume/Nicy_K_Kabir_Resume.pdf"
+  },
+  "socialLinks": {
+    "github": "https://github.com/nicyshai",
+    "linkedin": "https://www.linkedin.com/in/nicy-k-kabeer-3b30043b5/",
+    "portfolio": null,
+    "twitter": null,
+    "instagram": null,
+    "whatsapp": "+9995723146"
+  },
+  "skills": [
+    { "category": "Languages", "items": ["Dart"] },
+    { "category": "Frameworks", "items": ["Flutter"] },
+    { "category": "Backend & APIs", "items": ["Firebase", "REST API"] },
+    { "category": "Architecture", "items": ["MVVM", "MVC"] },
+    { "category": "State Management", "items": ["Provider", "GetX", "Bloc", "Riverpod"] },
+    { "category": "Tools", "items": ["Android Studio", "VS Code", "Git", "GitHub"] },
+    { "category": "Deployment", "items": ["Google Play Store", "Apple App Store"] }
+  ],
+  "projects": [
+    {
+      "name": "Amazon Prime Video Clone App",
+      "description": {
+        "mobile": "A Prime Video-style Flutter application featuring a responsive UI and reusable widgets.",
+        "desktop": "A Prime Video-style Flutter application featuring a responsive UI and reusable widgets, built for both Android and iOS platforms with a focus on smooth navigation and video streaming experience."
+      },
+      "technologies": ["Flutter", "Dart"],
+      "features": [
+        "Bottom Navigation Bar",
+        "Carousel Slider",
+        "Smooth screen navigation",
+        "Video streaming integration",
+        "Reusable, scalable widget architecture"
+      ],
+      "github": "https://github.com/nicyshai/prime-video",
+      "liveDemo": null,
+      "apk": null,
+      "image": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Luminar Technolab, Kochi",
+      "role": "Flutter Developer Intern",
+      "duration": "Dec 2025 - Current",
+      "responsibilities": [
+        "Developed two cross-platform mobile applications using MVVM architecture with REST APIs, Firebase, and SQLite for real-time data handling.",
+        "Designed responsive UI for Android and iOS while using Git for version control, code reviews, debugging, and issue resolution."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Arts (M.A.) in Economics",
+      "institution": "Mahatma Gandhi University, Kottayam, Kerala",
+      "duration": "2014 - 2016"
+    },
+    {
+      "degree": "Bachelor of Education (B.Ed.) in Social Science",
+      "institution": "Mahatma Gandhi University, Kottayam, Kerala",
+      "duration": "2011 - 2012"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Flutter Android and iOS App Development",
+      "organization": "Luminar Technolab, Kochi",
+      "year": "Dec 2025 - Current"
+    }
+  ],
+  "achievements": [],
+  "services": [
+    {
+      "title": "Cross-Platform App Development",
+      "description": "Building performant, single-codebase mobile apps for Android and iOS using Flutter and Dart.",
+      "icon": "phone_iphone"
+    },
+    {
+      "title": "Firebase & REST API Integration",
+      "description": "Connecting apps to real-time backends, authentication, and RESTful services for dynamic data handling.",
+      "icon": "cloud_sync"
+    },
+    {
+      "title": "MVVM & Clean Architecture",
+      "description": "Structuring scalable, maintainable codebases using MVVM and MVC patterns for long-term app health.",
+      "icon": "architecture"
+    },
+    {
+      "title": "Responsive UI/UX Design",
+      "description": "Crafting pixel-perfect, responsive interfaces that adapt seamlessly across devices and screen sizes.",
+      "icon": "design_services"
+    },
+    {
+      "title": "State Management Solutions",
+      "description": "Implementing Provider, GetX, Bloc, and Riverpod for predictable and efficient app state handling.",
+      "icon": "hub"
+    }
+  ]
+}
