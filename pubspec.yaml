@@ -1,0 +1,41 @@
+name: nicy_portfolio
+description: "Premium Flutter Web portfolio for Nicy K Kabir, Flutter Developer."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  provider: ^6.1.2
+
+  # Routing
+  go_router: ^14.2.0
+
+  # Fonts & UI
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.0
+  flutter_svg: ^2.0.10+1
+  cached_network_image: ^3.3.1
+
+  # Utilities
+  url_launcher: ^6.3.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/portfolio_data.json
+    - assets/resume/Nicy_K_Kabir_Resume.pdf
+    - assets/images/
